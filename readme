@@ -1,3 +1,5 @@
 Content - https://steamcommunity.com/sharedfiles/filedetails/?id=3393945890
 Также может быть проблема с отражениями на карте пропишите - mat_specular 0
 Нужны ULX + ULIB + Breach - ULX Commands
+Нужно распаковать архив и поместить в garrysmod/addons
+Предупреждение после распаковки вы должны оставить только папку rxsend_breach-main в которой addons,lua,gamemodes,data,sv.db
